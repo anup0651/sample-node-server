@@ -1,0 +1,37 @@
+{
+  "compilerOptions": {
+    /* Basic Options */
+    "target": "es6",
+    "module": "commonjs",
+    "outDir": "build",
+
+    /* Strict Type-Checking Options */
+    "strict": false,
+    "noImplicitAny": false,
+    "strictNullChecks": false,
+    "strictFunctionTypes": false,
+    "strictBindCallApply": false,
+    "strictPropertyInitialization": false,
+    "noImplicitThis": false,
+    "alwaysStrict": false,
+
+    /* Additional Checks */
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "noImplicitReturns": false,
+    "noFallthroughCasesInSwitch": false,
+
+    /* Module Resolution Options */
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "esModuleInterop": true,
+
+    /* Experimental Options */
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+
+    /* Advanced Options */
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true
+  }
+}
