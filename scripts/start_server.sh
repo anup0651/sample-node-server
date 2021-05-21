@@ -2,6 +2,8 @@
 
 cd /var/sampleNodeJsServer
 
+sudo npm install
+
 sudo npm run pm2stop
 
 sudo npm run build
